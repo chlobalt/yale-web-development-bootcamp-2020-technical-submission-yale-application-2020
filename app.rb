@@ -7,7 +7,8 @@ age = 20
 favorite_food = "fried chicken"
 height_in_inches = 62
 
-AVERAGE_HEIGHT_IN_INCHES = 
+AVERAGE_HEIGHT_IN_INCHES = 64
+height_message
 ## Do not modify below this line!
 
 output(name, age, favorite_food, height_message)
